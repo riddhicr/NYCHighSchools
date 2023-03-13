@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NycHighschools</string>
+    <string name="tv_text_math">Math</string>
+    <string name="tv_text_school_name">School Name</string>
+    <string name="tv_text_overview_paragraph">Overview Paragraph</string>
+    <string name="tv_text_sat_scores">SAT Scores</string>
+    <string name="tv_text_sat_result_def">3.0</string>
+    <string name="tv_text_reading">Reading</string>
+    <string name="tv_text_writing">Writing</string>
+    <string name="tv_text_location">location</string>
+    <string name="tv_text_phone">phone</string>
+    <string name="tv_text_email">email</string>
+    <string name="tv_text_webpage">webpage</string>
+    <string name="btn_text_find_me">Locate us on map!</string>
+</resources>
